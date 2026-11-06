@@ -44,6 +44,13 @@ public class BTT3 {
         double tongTienNhap = thanhTien + phiVanChuyen;
         System.out.printf("Tong tien nhap: %,.0f VND\n", tongTienNhap);
 
+
+        //bai tap tuan 4
+        if (donGia>0 && soLuong >= 0 && )
+        
+
         sc.close();
     }
 }
+
+
